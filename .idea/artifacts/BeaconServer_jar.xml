@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BeaconServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BeaconServer_jar</output-path>
+    <root id="archive" name="BeaconServer.jar">
+      <element id="module-output" name="BeaconServer" />
+    </root>
+  </artifact>
+</component>
